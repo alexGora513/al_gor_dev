@@ -7,5 +7,6 @@ public class NewGitHub {
 
     public static void main(String[]args){
         System.out.println("New project");
+        System.out.println("Hello!");
     }
 }
